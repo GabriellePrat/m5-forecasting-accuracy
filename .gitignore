@@ -1,2 +1,8 @@
+.ipynb_checkpoints
 data
 notebooks
+.DS_Store
+**/__pycache__/**
+*.py[cod]
+images
+env.py
